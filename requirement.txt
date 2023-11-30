@@ -1,0 +1,10 @@
+asgiref==3.7.2
+Django==3.2
+django-filter==23.4
+djangorestframework==3.14.0
+djangorestframework-gis==1.0
+GDAL @ file:///C:/Users/dell/Downloads/GDAL-3.0.4-cp37-cp37m-win_amd64.whl#sha256=80f255ff38fe9963fc79fb5801531f8173c7a0d0ff448ef7eb9ab7f21f7ea21b
+psycopg2==2.9.9
+pytz==2023.3.post1
+sqlparse==0.4.4
+typing_extensions==4.7.1

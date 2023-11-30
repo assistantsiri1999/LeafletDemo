@@ -1,0 +1,23 @@
+body {
+    padding: 0;
+    margin: 0;
+  }
+  
+  #home {
+    display: flex;
+  }
+  #header {
+    background-color: cornsilk;
+    width: 25vw;
+    height: 100vh;
+  }
+  
+  #mainMap {
+    width: 75vw;
+    height: 100vh;
+  }
+  #map {
+    height: 100%;
+    width: 100%;
+  }
+  
